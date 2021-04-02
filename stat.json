@@ -1,0 +1,24 @@
+[
+{"Maakond":"Harju maakond","EHAK":"37","Kokku":"76.4","Putukakahjustused":"15","Metsloomakahjustused":"48.3","Metsahaigused":"11.1","Ebasoodneveerziim":"..","TuuleheideTuulemurd":"1.6","Metsatulekahjud":"0.5","Muudkahjustused":".."},
+{"Maakond":"Hiiu maakond","EHAK":"39","Kokku":"4.6","Putukakahjustused":"..","Metsloomakahjustused":"..","Metsahaigused":"2.2","Ebasoodneveerziim":"..","TuuleheideTuulemurd":"2.4","Metsatulekahjud":"..","Muudkahjustused":".."},
+{"Maakond":"Ida-Viru maakond","EHAK":"45","Kokku":"51.5","Putukakahjustused":"..","Metsloomakahjustused":"11.3","Metsahaigused":"22.4","Ebasoodneveerziim":"5.9","TuuleheideTuulemurd":"11.1","Metsatulekahjud":"0.8","Muudkahjustused":".."},
+{"Maakond":"J�geva maakond","EHAK":"50","Kokku":"79.4","Putukakahjustused":"18","Metsloomakahjustused":"27.1","Metsahaigused":"18.1","Ebasoodneveerziim":"8.2","TuuleheideTuulemurd":"7.7","Metsatulekahjud":"..","Muudkahjustused":"0.3"}
+,
+{"Maakond":"J�rva maakond","EHAK":"52","Kokku":"209.2","Putukakahjustused":"19.5","Metsloomakahjustused":"134.4","Metsahaigused":"35.5","Ebasoodneveerziim":"3.5","TuuleheideTuulemurd":"16.2","Metsatulekahjud":"..","Muudkahjustused":".."}
+,
+{"Maakond":"L��ne maakond","EHAK":"56","Kokku":"52.4","Putukakahjustused":"6.7","Metsloomakahjustused":"..","Metsahaigused":"45.7","Ebasoodneveerziim":"..","TuuleheideTuulemurd":"..","Metsatulekahjud":"..","Muudkahjustused":".."}
+,
+{"Maakond":"L��ne-Viru maakond","EHAK":"60","Kokku":"232.8","Putukakahjustused":"46","Metsloomakahjustused":"49.1","Metsahaigused":"71","Ebasoodneveerziim":"20.3","TuuleheideTuulemurd":"43.2","Metsatulekahjud":"..","Muudkahjustused":"3.3"}
+,
+{"Maakond":"P�lva maakond","EHAK":"64","Kokku":"93","Putukakahjustused":"41.1","Metsloomakahjustused":"9.4","Metsahaigused":"2.7","Ebasoodneveerziim":"5","TuuleheideTuulemurd":"32.9","Metsatulekahjud":"..","Muudkahjustused":"1.9"}
+,
+{"Maakond":"P�rnu maakond","EHAK":"68","Kokku":"129.1","Putukakahjustused":"7.3","Metsloomakahjustused":"42.7","Metsahaigused":"42.9","Ebasoodneveerziim":"19.3","TuuleheideTuulemurd":"17","Metsatulekahjud":"..","Muudkahjustused":".."}
+,
+{"Maakond":"Rapla maakond","EHAK":"71","Kokku":"111.6","Putukakahjustused":"22.9","Metsloomakahjustused":"20.3","Metsahaigused":"45.2","Ebasoodneveerziim":"19.1","TuuleheideTuulemurd":"3.9","Metsatulekahjud":"..","Muudkahjustused":"0.2"},
+{"Maakond":"Saare maakond","EHAK":"74","Kokku":"42.6","Putukakahjustused":"..","Metsloomakahjustused":"..","Metsahaigused":"36.1","Ebasoodneveerziim":"..","TuuleheideTuulemurd":"6.5","Metsatulekahjud":"..","Muudkahjustused":".."},
+{"Maakond":"Tartu maakond","EHAK":"79","Kokku":"118.6","Putukakahjustused":"55","Metsloomakahjustused":"11.9","Metsahaigused":"42.1","Ebasoodneveerziim":"2.8","TuuleheideTuulemurd":"6.8","Metsatulekahjud":"..","Muudkahjustused":".."},
+{"Maakond":"Valga maakond","EHAK":"81","Kokku":"204","Putukakahjustused":"89.7","Metsloomakahjustused":"16","Metsahaigused":"4.5","Ebasoodneveerziim":"11.4","TuuleheideTuulemurd":"76","Metsatulekahjud":"1.1","Muudkahjustused":"5.3"},
+{"Maakond":"Viljandi maakond","EHAK":"84","Kokku":"182.1","Putukakahjustused":"5.1","Metsloomakahjustused":"78.2","Metsahaigused":"77.8","Ebasoodneveerziim":"12.9","TuuleheideTuulemurd":"7","Metsatulekahjud":"1.2","Muudkahjustused":".."},
+{"Maakond":"V�ru maakond","EHAK":"87","Kokku":"137.4","Putukakahjustused":"34.1","Metsloomakahjustused":"31.6","Metsahaigused":"3.3","Ebasoodneveerziim":"16.8","TuuleheideTuulemurd":"49.9","Metsatulekahjud":"0.2","Muudkahjustused":"1.5"}
+
+]
