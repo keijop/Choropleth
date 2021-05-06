@@ -17,7 +17,7 @@ let projection = d3.geoIdentity()
 //fetch data 																	
 Promise.all([
 	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/maakond_20210301.json?token=ASHBDHG2YG2XLR2TCLB4WALASQ2XC'),
-	fetch('https://github.com/keijop/Choropleth/blob/main/stat.json')
+	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/olkyl-mo4et.json?token=ASHBDHCSVZ2XDVBAQLTOSFLASQ25A')
 	])
 	.then(responses => Promise.all(responses.map(response => response.json())))
 	.then(data => {
