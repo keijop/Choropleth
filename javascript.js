@@ -16,8 +16,8 @@ let projection = d3.geoIdentity()
 
 //fetch data 																	
 Promise.all([
-	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/maakond_20210301.json'),
-	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/olkyl-mo4et.json')
+	fetch('https://github.com/keijop/counties_geojson/blob/main/maakond_20210301.json'),
+	fetch('https://github.com/keijop/counties_geojson/blob/main/olkyl-mo4et.json)
 	])
 	.then(responses => Promise.all(responses.map(response => response.json())))
 	.then(data => {
