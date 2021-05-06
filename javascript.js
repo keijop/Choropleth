@@ -4,7 +4,7 @@ let svg = d3.select('#viz')
 
 //global variables			
 let colorScale = d3.scaleQuantize()
-					.range(d3.schemeGreens[9])	
+					.range(d3.schemeGreens[9].reverse())	
 
 let legendScaleX = d3.scaleLinear()
 						
