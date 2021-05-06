@@ -49,6 +49,7 @@ body{
 			top: 0;
 			left: 0;
 			font-size: 1.5vw;
+			padding: 1vw;
 			line-height: 2vw;
 			width: max-content;
 			height: max-content;
@@ -88,6 +89,9 @@ body{
 		#text, #legend{
 			display: none;
 		}
+		p{
+			font-size: 1.5vw;
+		}
 	}
 
 	@media only screen and (orientation: portrait){
@@ -113,10 +117,13 @@ body{
 		}
 		h1{
 			padding-top: 20%;
-        	font-size: 3vh;
+        		font-size: 3vh;
 		}
-      	#info-box{
+      		#info-box{
 			font-size: 2vh;
-       		width: 100%;
+       			width: 100%;
+		}
+		p{
+			font-size: 1.5vw;
 		}
 	}
