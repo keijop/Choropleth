@@ -15,9 +15,9 @@ let projection = d3.geoIdentity()
 					.reflectY(true)
 
 //fetch data 																	
-Promise.all([
-	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/maakond_20210301.json?token=ASHBDHG2YG2XLR2TCLB4WALASQ2XC'),
-	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/olkyl-mo4et.json?token=ASHBDHCSVZ2XDVBAQLTOSFLASQ25A')
+Promise.all([    
+	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/maakond_20210301.json'),
+	fetch('https://raw.githubusercontent.com/keijop/counties_geojson/main/olkyl-mo4et.json')
 	])
 	.then(responses => Promise.all(responses.map(response => response.json())))
 	.then(data => {
